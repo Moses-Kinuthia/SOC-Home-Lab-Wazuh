@@ -40,8 +40,9 @@ I am currently simulating enterprise-level threats to validate detection logic:
 ---
 
 ## 📊 Dashboard Preview
-*(Upload a high-quality screenshot of your Wazuh 'Security events' dashboard to /assets/ and link it here)*
-![Wazuh Dashboard](./assets/dashboard_overview.png)
+
+<img width="1883" height="435" alt="image" src="https://github.com/user-attachments/assets/e3ac0a4c-35fc-49e4-abdd-f5f64210c857" />
+
 
 ---
 
